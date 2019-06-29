@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "306316919144",
+    "firebase_url": "https://xfirebaseproject-dd80c.firebaseio.com",
+    "project_id": "xfirebaseproject-dd80c",
+    "storage_bucket": "xfirebaseproject-dd80c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306316919144:android:e148fb2221361189",
+        "android_client_info": {
+          "package_name": "com.example.nilogithan.authendication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306316919144-kgffr2t0lpo6o2bu7dfuhhmtc2oa7q8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nilogithan.authendication",
+            "certificate_hash": "56aa074d3362865ac0c3d54db660edc6d76a8899"
+          }
+        },
+        {
+          "client_id": "306316919144-5jm4af2v3lmtppc82lqfnd506v52polo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI4HZ871ZHJ0SQkG_MJNZusI9ZDBKWA_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306316919144-5jm4af2v3lmtppc82lqfnd506v52polo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306316919144:android:b8316b7a27775797",
+        "android_client_info": {
+          "package_name": "com.example.nilogithan.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306316919144-2u6mcqb9fhsdhbopp4qrbvq6ulovdc2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nilogithan.todolist",
+            "certificate_hash": "56aa074d3362865ac0c3d54db660edc6d76a8899"
+          }
+        },
+        {
+          "client_id": "306316919144-5jm4af2v3lmtppc82lqfnd506v52polo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI4HZ871ZHJ0SQkG_MJNZusI9ZDBKWA_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306316919144-5jm4af2v3lmtppc82lqfnd506v52polo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
